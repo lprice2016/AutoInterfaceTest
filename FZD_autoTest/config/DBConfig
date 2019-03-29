@@ -1,0 +1,6 @@
+[DATABASE]
+host = 10.100.200.60
+username = qa_m
+password =P#737cW_jk@
+port = 1336
+dataBase=

@@ -1,0 +1,8 @@
+[HTTP]
+host=http://sit-api.dazhijinke.com
+url=
+port=
+timeOut=100
+header={'Content-Type':'application/json','ip':'192.168.241.26','orgCode':'JG01','channelId':'0','appId':'fzd','clientType':'Android','clientVersion':'7.0','phoneBrand':'Meizu','phoneModel':'PRO 5','deviceId':'867905025641566','macAddress':'68:3e:34:1c:59:e3','isp':'Q01DQw==','network':'wifi'}
+
+

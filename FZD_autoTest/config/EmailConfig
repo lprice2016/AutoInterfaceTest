@@ -1,0 +1,10 @@
+[EMAIL]
+mailHost=mail.nonobank.com
+port=995
+mailUser=goujingwei
+mailPass=It@789123
+sender=goujingwei@nonobank.com
+subject=TestReport
+content= 分子贷贷款申请接口自动化测试报告......
+receiver=goujingwei@nonobank.com
+onOff=1

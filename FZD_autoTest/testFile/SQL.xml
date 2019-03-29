@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<page>
+    <database name = 'dzjk_user'>
+        <table name = 'usr_info'>
+            <sql id = '1'>
+                SELECT id from dzjk_user.usr_info WHERE mobile = "${mobile}";
+            </sql>
+        </table>
+    </database>
+    <database name = 'dzjk_user1'>
+    <table name = 'usr_channel'>
+        <sql id = '2'>
+            SELECT encode_channel FROM dzjk_user.usr_channel  ORDER BY RAND() DESC LIMIT 1;
+        </sql>
+    </table>
+    </database>
+</page>
